@@ -1,6 +1,5 @@
 package com.luv2code.springdemo;
 
-import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class AnnotationDemoApp {
